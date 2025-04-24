@@ -10,7 +10,7 @@ resourceQuotas:
   pods: 8
   requests:
     cpu: 1
-    memory: 1Gi
+    memory: 2Gi
   limits:
     cpu: 2
     memory: 2Gi
